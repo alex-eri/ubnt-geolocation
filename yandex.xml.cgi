@@ -1,4 +1,4 @@
-<ya_lbs_request>
+xml=<ya_lbs_request>
 <common>
 <version>1.0</version>
 <api_key>AF5JN04BAAAA6whOMAIAptyIlZNT6pC1ijdFN15KhMbuUI8AAAAAAAAAAAC9Kr9D83HCh5c-F_y-VhjnjiTN5w==</api_key>
